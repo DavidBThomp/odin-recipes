@@ -9,3 +9,5 @@ Using HTML this site will display different recipes.
 - HTML Tags
 - HTML Attributes
 - Absolute and relative links
+- Ordered and Unordered Lists
+- Heading Heirarchy
