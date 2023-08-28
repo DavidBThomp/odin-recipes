@@ -1,0 +1,25 @@
+* {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+body {
+  background-color: orchid;
+  color: white;
+}
+
+a {
+  color: white;
+}
+
+a:visited {
+  color: darkred;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  width: 400px;
+  height: auto;
+}
